@@ -54,5 +54,12 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{ts,tsx}",
+      "!src/index.tsx",
+      "!src/typings.d.ts"
+    ]
+  }
 }
