@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'blueeye-ui'
+import { ExampleComponent } from 'blueeye-ui'
 
 export default class App extends Component {
   render () {
