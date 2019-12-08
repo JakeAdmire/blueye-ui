@@ -1,13 +1,8 @@
-<h1 align="center">blueeye-ui</h1>
+<p align="center"><img width="400" src="resources/readme-hero.svg" alt="blueeye-ui logo"></p>
 
 <div align="center">
 
-<p>A clean, simple and <span style="color:blue;">blue</span> React/TypeScript UI library</p>
-
-[![NPM](https://img.shields.io/npm/v/blueeye-ui.svg)](https://www.npmjs.com/package/blueeye-ui) 
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![Build Status](https://travis-ci.org/JakeAdmire/blueye-ui.svg?branch=master)](https://travis-ci.org/JakeAdmire/blueye-ui)
-[![Coverage Status](https://coveralls.io/repos/github/JakeAdmire/blueye-ui/badge.svg?branch=master)](https://coveralls.io/github/JakeAdmire/blueye-ui?branch=master)
+[![NPM](https://img.shields.io/npm/v/blueeye-ui.svg)](https://www.npmjs.com/package/blueeye-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/JakeAdmire/blueye-ui.svg?branch=master)](https://travis-ci.org/JakeAdmire/blueye-ui) [![Coverage Status](https://coveralls.io/repos/github/JakeAdmire/blueye-ui/badge.svg?branch=master)](https://coveralls.io/github/JakeAdmire/blueye-ui?branch=master)
 </div>
 
 ## Why?
