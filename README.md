@@ -1,16 +1,8 @@
-# blueeye-ui
-
-> A clean, simple and blue React/TypeScript component library
-
-[![NPM](https://img.shields.io/npm/v/blueeye-ui.svg)](https://www.npmjs.com/package/blueeye-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-
-
 <h1 align="center">blueeye-ui</h1>
 
 <div align="center">
 
-<p>A clean, simple and <span style="color:blue;">blue</span> [React.js](http://reactjs.org/)/[TypeScript](https://www.typescriptlang.org/) UI library</p>
+<p>A clean, simple and <span style="color:blue;">blue</span> React/TypeScript UI library</p>
 
 [![NPM](https://img.shields.io/npm/v/blueeye-ui.svg)](https://www.npmjs.com/package/blueeye-ui) 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
